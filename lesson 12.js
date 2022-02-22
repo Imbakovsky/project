@@ -12,7 +12,7 @@ const a = prompt('Один из просмотренных фильмов?', '')
       b = prompt ('На сколько оцениваете его',''),
       c = prompt('Один из просмотренных фильмов?', ''),
       d = prompt ('На сколько оцениваете его','');
-      123.s
+      12344.s
       
       personalMovieDB.movies[a] = b;  
       personalMovieDB.movies[c] = d;
